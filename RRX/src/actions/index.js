@@ -6,7 +6,7 @@ export const addTodo = text => {
     text
   }
 }
-
+//guess
 export const setVisibilityFilter = filter => {
   return {
     type: 'SET_VISIBILITY_FILTER',
