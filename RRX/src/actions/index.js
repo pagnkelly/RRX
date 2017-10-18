@@ -8,7 +8,7 @@ export const addTodo = text => {
 }
 //guess
 //wukong
-//daizi
+//bajie
 export const setVisibilityFilter = filter => {
   return {
     type: 'SET_VISIBILITY_FILTER',
